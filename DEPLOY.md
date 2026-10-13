@@ -6,7 +6,7 @@ Dự án đã được tối ưu hóa đầy đủ để triển khai (deploy) t
 
 Bấm vào nút bên dưới để tự động tạo dự án mới trên Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcmsva%2Fhoangandev.git&env=MONGODB_URI,JWT_SECRET,ENCRYPTION_KEY,NEXT_PUBLIC_APP_URL,NEXT_PUBLIC_APP_NAME&envDescription=Nhap%20thong%20tin%20MongoDB%20URI%20va%20cac%20khoa%20bao%20mat&project-name=hoangandev&repository-name=hoangandev)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcmsva%2Fhoangandev&env=MONGODB_URI,JWT_SECRET,ENCRYPTION_KEY,NEXT_PUBLIC_APP_URL,NEXT_PUBLIC_APP_NAME&envDescription=Nhap%20thong%20tin%20MongoDB%20URI%20va%20cac%20khoa%20bao%20mat&project-name=hoangandev&repository-name=hoangandev)
 
 ---
 
